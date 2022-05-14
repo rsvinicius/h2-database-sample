@@ -15,7 +15,7 @@ H2 is an open-source lightweight relational database for the Java platform. It i
     ./gradlew bootRun
     ```  
 
-2) Access the [H2-Console](localhost:8080/h2-console) and inform the credentials defined at application.properties.
+2) Access the [H2-Console](http://localhost:8080/h2-console) and inform the credentials defined at application.properties.
 
 ## Contributing
 
